@@ -14,8 +14,6 @@
 
 한계를 정하지 않고 **성장**하기 위해 노력하고 있습니다.
 
----
-
 ## Tech stack
 
 ![typescript](https://img.shields.io/badge/-TypeScript-007ACC?&logo=TypeScript&logoColor=white)
@@ -25,8 +23,6 @@
 ![Express](https://img.shields.io/badge/-Express-191919?&logo=Node.js&logoColor=white)
 ![Mysql](https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?&logo=Amazon-AWS&logoColor=white)
-
----
 
 ## What I did
 
