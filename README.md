@@ -4,7 +4,7 @@
 
 [![changicho's github stats](https://github-readme-stats.vercel.app/api?username=changicho&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eunuch74)](https://solved.ac/eunuch74)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=eunuch74)](https://solved.ac/eunuch74)
 
 혼자 빨리 나아가는것이 아니라, 함께 멀리 나아가는 것에 가치를 두고 성장하고 있습니다. 
 
