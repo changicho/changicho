@@ -16,6 +16,8 @@
 
 ## Tech stack
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changicho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![typescript](https://img.shields.io/badge/-TypeScript-007ACC?&logo=TypeScript&logoColor=white)
 ![javascript](https://img.shields.io/badge/-JavaScript-F7E01C?&logo=JavaScript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=white)
