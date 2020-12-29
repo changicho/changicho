@@ -1,22 +1,12 @@
-# 함께 성장하고 싶은 개발자
+# The developer who want to growth with others
 
-> 한발자국씩 매일 전진하고 있습니다.
+> step by step, to change the world
 
 [![changicho's github stats](https://github-readme-stats.vercel.app/api?username=changicho&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=eunuch74)](https://solved.ac/eunuch74)
 
-혼자 빨리 나아가는것이 아니라, 함께 멀리 나아가는 것에 가치를 두고 성장하고 있습니다. 
-
-**좋은 개발 문화**를 만들기 위해 노력하고 있습니다.
-
-오픈소스와 **사용자 경험**을 높이는 데 관심이 있습니다. 
-
-한계를 정하지 않고 **성장**하기 위해 노력하고 있습니다.
-
 ## Tech stack
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changicho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![typescript](https://img.shields.io/badge/-TypeScript-007ACC?&logo=TypeScript&logoColor=white)
 ![javascript](https://img.shields.io/badge/-JavaScript-F7E01C?&logo=JavaScript&logoColor=white)
@@ -39,4 +29,3 @@
 
 - NAVER 커넥트 재단 : 부스트캠프 2019
 - 멋쟁이사자처럼 7기
-
