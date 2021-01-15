@@ -13,10 +13,6 @@
 - I love do something with others.
 - I want to change the world productively.
 
-## Tech stack
-
-## What I did
-
 |       Date        |     Type      |               Title               |    Organization     |
 | :---------------: | :-----------: | :-------------------------------: | :-----------------: |
 | 2020.07 ~ 2020.08 | 📝 Education  |      Woowahan Tech Camp 3rd       | Woowa Brothers Corp |
@@ -26,8 +22,8 @@
 | 2019.07 ~ 2019.12 | 📝 Education  |          Boost Camp 2019          | NAVER Connect Corp  |
 | 2019.04 ~ 2019.12 |  🤝 Activity  |           Like Lion 7th           |    likelion.net     |
 
-## Summery
+---
 
-[![changicho's github stats](https://github-readme-stats.vercel.app/api?username=changicho&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=eunuch74)](https://solved.ac/eunuch74)
+|                                                                              GitHub                                                                               |                                                 Solved.ac                                                  |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
+| [![changicho's github stats](https://github-readme-stats.vercel.app/api?username=changicho&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=eunuch74)](https://solved.ac/eunuch74) |
