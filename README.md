@@ -9,10 +9,29 @@
 ![Mysql](https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?&logo=Amazon-AWS&logoColor=white)
 
-🎨 Hi there! I'm the developer who interested in full-stack. (especially front-end)
+🎨 Hi there! I'm the front-end developer.
 
-- I love do something with others.
-- I want to change the world productively.
+```JSON
+{
+  "name": "cho, chan gi",
+  "position": "frontend developer",
+  "tech-stack": {
+    "frontend": [
+      "typescript",
+      "javascript",
+      "react",
+      "redux",
+      "animation",
+      "socket"
+    ],
+    "backend": ["nodejs", "express", "socket"],
+    "database": ["mongo", "mysql"]
+  },
+  "motto": "never stop, getting better",
+  "love": ["performance improvement", "share with others"],
+  "hobby": ["algorithm", "hiking"]
+}
+```
 
 |       Date        |     Type      |               Title               |    Organization     |
 | :---------------: | :-----------: | :-------------------------------: | :-----------------: |
