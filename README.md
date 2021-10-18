@@ -33,15 +33,15 @@
 }
 ```
 
-|       Date        |     Type      |               Title               |    Organization     |
-| :---------------: | :-----------: | :-------------------------------: | :-----------------: |
-| 2021.08 ~ 2020.10 |  👀 Reviewer  |       Boost Camp 6th (2021)       | NAVER Connect Corp  |
-| 2020.07 ~ 2020.08 | 📝 Education  |      Woowahan Tech Camp 3rd       | Woowa Brothers Corp |
-| 2020.06 ~ 2020.12 |  🤝 Activity  |       Software Maestro 11th       |    swmaestro.org    |
-| 2020.02 ~ 2020.03 | 💼 Internship |            Internship             |     NAVER Corp      |
-| 2020.01 ~ 2020.01 | 📝 Education  | SAMSUNG SDS Winter Algorithm Camp |     SAMSUNG SDS     |
-| 2019.07 ~ 2019.12 | 📝 Education  |       Boost Camp 4th (2019)       | NAVER Connect Corp  |
-| 2019.04 ~ 2019.12 |  🤝 Activity  |           Like Lion 7th           |    likelion.net     |
+|       Date        |       Type       |               Title               |    Organization     |
+| :---------------: | :--------------: | :-------------------------------: | :-----------------: |
+| 2021.09 ~ 2021.10 | 👀 Code Reviewer |       Boost Camp 6th (2021)       | NAVER Connect Corp  |
+| 2020.07 ~ 2020.08 |   📝 Education   |      Woowahan Tech Camp 3rd       | Woowa Brothers Corp |
+| 2020.06 ~ 2020.12 |   🤝 Activity    |       Software Maestro 11th       |    swmaestro.org    |
+| 2020.02 ~ 2020.03 |  💼 Internship   |            Internship             |     NAVER Corp      |
+| 2020.01 ~ 2020.01 |   📝 Education   | SAMSUNG SDS Winter Algorithm Camp |     SAMSUNG SDS     |
+| 2019.07 ~ 2019.12 |   📝 Education   |       Boost Camp 4th (2019)       | NAVER Connect Corp  |
+| 2019.04 ~ 2019.12 |   🤝 Activity    |           Like Lion 7th           |    likelion.net     |
 
 ---
 
