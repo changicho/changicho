@@ -35,6 +35,7 @@
 
 |       Date        |       Type       |               Title               |    Organization     |
 | :---------------: | :--------------: | :-------------------------------: | :-----------------: |
+| 2021.10 ~ 2021.12 |    👀 Mentor     |       Boost Camp 6th (2021)       | NAVER Connect Corp  |
 | 2021.09 ~ 2021.10 | 👀 Code Reviewer |       Boost Camp 6th (2021)       | NAVER Connect Corp  |
 | 2020.07 ~ 2020.08 |   📝 Education   |      Woowahan Tech Camp 3rd       | Woowa Brothers Corp |
 | 2020.06 ~ 2020.12 |   🤝 Activity    |       Software Maestro 11th       |    swmaestro.org    |
