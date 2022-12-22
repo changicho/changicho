@@ -35,6 +35,8 @@
 
 |       Date        |       Type       |               Title               |    Organization     |
 | :---------------: | :--------------: | :-------------------------------: | :-----------------: |
+| 2022.11 ~ 2021.12 |    👀 Mentor     |       Boost Camp 7th (2022)       | NAVER Connect Corp  |
+| 2022.09 ~ 2021.10 | 👀 Code Reviewer |       Boost Camp 7th (2022)       | NAVER Connect Corp  |
 | 2022.07 ~ 2022.08 |   🤝 Activity    |           Nexters 21th            |   teamnexters.com   |
 | 2022.01 ~ 2022.02 |   🤝 Activity    |           Nexters 20th            |   teamnexters.com   |
 | 2021.10 ~ 2021.12 |    👀 Mentor     |       Boost Camp 6th (2021)       | NAVER Connect Corp  |
@@ -44,7 +46,6 @@
 | 2020.02 ~ 2020.03 |  💼 Internship   |            Internship             |     NAVER Corp      |
 | 2020.01 ~ 2020.01 |   📝 Education   | SAMSUNG SDS Winter Algorithm Camp |     SAMSUNG SDS     |
 | 2019.07 ~ 2019.12 |   📝 Education   |       Boost Camp 4th (2019)       | NAVER Connect Corp  |
-| 2019.04 ~ 2019.12 |   🤝 Activity    |           Like Lion 7th           |    likelion.net     |
 
 ---
 
