@@ -33,8 +33,8 @@
 }
 ```
 
-|       Date        |       Type       |               Title               |    Organization     |
-| :---------------: | :--------------: | :-------------------------------: | :-----------------: |
+|       Date        |      Type       |               Title               |    Organization     |
+| :---------------: | :-------------: | :-------------------------------: | :-----------------: |
 | 2022.11 ~ 2021.12 |    👀 Mentor     |       Boost Camp 7th (2022)       | NAVER Connect Corp  |
 | 2022.09 ~ 2021.10 | 👀 Code Reviewer |       Boost Camp 7th (2022)       | NAVER Connect Corp  |
 | 2022.07 ~ 2022.08 |   🤝 Activity    |           Nexters 21th            |   teamnexters.com   |
@@ -49,6 +49,4 @@
 
 ---
 
-|                                                                              GitHub                                                                               |                                                 Solved.ac                                                  |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
-| [![changicho's github stats](https://github-readme-stats.vercel.app/api?username=changicho&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=eunuch74)](https://solved.ac/eunuch74) |
+[![changicho's github stats](https://github-readme-stats.vercel.app/api?username=changicho&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
