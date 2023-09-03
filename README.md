@@ -35,8 +35,9 @@
 
 |       Date        |      Type       |               Title               |    Organization     |
 | :---------------: | :-------------: | :-------------------------------: | :-----------------: |
-| 2022.11 ~ 2021.12 |    👀 Mentor     |       Boost Camp 7th (2022)       | NAVER Connect Corp  |
-| 2022.09 ~ 2021.10 | 👀 Code Reviewer |       Boost Camp 7th (2022)       | NAVER Connect Corp  |
+| 2023.04 ~ 2023.08 |    👀 Expert     |       Software Maestro 14th       |    swmaestro.org    |
+| 2022.11 ~ 2022.12 |    👀 Mentor     |       Boost Camp 7th (2022)       | NAVER Connect Corp  |
+| 2022.09 ~ 2022.10 | 👀 Code Reviewer |       Boost Camp 7th (2022)       | NAVER Connect Corp  |
 | 2022.07 ~ 2022.08 |   🤝 Activity    |           Nexters 21th            |   teamnexters.com   |
 | 2022.01 ~ 2022.02 |   🤝 Activity    |           Nexters 20th            |   teamnexters.com   |
 | 2021.10 ~ 2021.12 |    👀 Mentor     |       Boost Camp 6th (2021)       | NAVER Connect Corp  |
