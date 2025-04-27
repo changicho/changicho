@@ -1,6 +1,5 @@
 # ⚡️ I'm a developer growth with others
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchangicho%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![typescript](https://img.shields.io/badge/-TypeScript-007ACC?&logo=TypeScript&logoColor=white)
 ![javascript](https://img.shields.io/badge/-JavaScript-F7E01C?&logo=JavaScript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=white)
@@ -21,11 +20,9 @@
       "javascript",
       "react",
       "redux",
-      "animation",
       "socket"
     ],
-    "backend": ["nodejs", "express", "socket"],
-    "database": ["mongo", "mysql"]
+    "backend": ["nodejs", "socket"],
   },
   "motto": "never stop, getting better",
   "love": ["performance improvement", "share with others"],
@@ -33,20 +30,20 @@
 }
 ```
 
-|       Date        |      Type       |               Title               |    Organization     |
-| :---------------: | :-------------: | :-------------------------------: | :-----------------: |
-| 2023.04 ~ 2023.08 |    👀 Expert     |       Software Maestro 14th       |    swmaestro.org    |
-| 2022.11 ~ 2022.12 |    👀 Mentor     |       Boost Camp 7th (2022)       | NAVER Connect Corp  |
-| 2022.09 ~ 2022.10 | 👀 Code Reviewer |       Boost Camp 7th (2022)       | NAVER Connect Corp  |
-| 2022.07 ~ 2022.08 |   🤝 Activity    |           Nexters 21th            |   teamnexters.com   |
-| 2022.01 ~ 2022.02 |   🤝 Activity    |           Nexters 20th            |   teamnexters.com   |
-| 2021.10 ~ 2021.12 |    👀 Mentor     |       Boost Camp 6th (2021)       | NAVER Connect Corp  |
-| 2021.09 ~ 2021.10 | 👀 Code Reviewer |       Boost Camp 6th (2021)       | NAVER Connect Corp  |
-| 2020.07 ~ 2020.08 |   📝 Education   |      Woowahan Tech Camp 3rd       | Woowa Brothers Corp |
-| 2020.06 ~ 2020.12 |   🤝 Activity    |       Software Maestro 11th       |    swmaestro.org    |
-| 2020.02 ~ 2020.03 |  💼 Internship   |            Internship             |     NAVER Corp      |
-| 2020.01 ~ 2020.01 |   📝 Education   | SAMSUNG SDS Winter Algorithm Camp |     SAMSUNG SDS     |
-| 2019.07 ~ 2019.12 |   📝 Education   |       Boost Camp 4th (2019)       | NAVER Connect Corp  |
+|       Date        |           Type           |               Title               |    Organization     |
+| :---------------: | :----------------------: | :-------------------------------: | :-----------------: |
+| 2024.09 ~ 2022.12 | 👀 Code Reviewer & Mentor |       Boost Camp 9th (2024)       | NAVER Connect Corp  |
+| 2024.04 ~ 2024.06 |         👀 Expert         |       Software Maestro 14th       |    swmaestro.org    |
+| 2023.04 ~ 2023.08 |         👀 Expert         |       Software Maestro 14th       |    swmaestro.org    |
+| 2022.09 ~ 2022.12 | 👀 Code Reviewer & Mentor |       Boost Camp 7th (2022)       | NAVER Connect Corp  |
+| 2022.07 ~ 2022.08 |        🤝 Activity        |           Nexters 21th            |   teamnexters.com   |
+| 2022.01 ~ 2022.02 |        🤝 Activity        |           Nexters 20th            |   teamnexters.com   |
+| 2021.09 ~ 2021.12 | 👀 Code Reviewer & Mentor |       Boost Camp 6th (2021)       | NAVER Connect Corp  |
+| 2020.07 ~ 2020.08 |       📝 Education        |      Woowahan Tech Camp 3rd       | Woowa Brothers Corp |
+| 2020.06 ~ 2020.12 |        🤝 Activity        |       Software Maestro 11th       |    swmaestro.org    |
+| 2020.02 ~ 2020.03 |       💼 Internship       |            Internship             |     NAVER Corp      |
+| 2020.01 ~ 2020.01 |       📝 Education        | SAMSUNG SDS Winter Algorithm Camp |     SAMSUNG SDS     |
+| 2019.07 ~ 2019.12 |       📝 Education        |       Boost Camp 4th (2019)       | NAVER Connect Corp  |
 
 ---
 
