@@ -32,7 +32,7 @@
 
 |       Date        |           Type           |               Title               |    Organization     |
 | :---------------: | :----------------------: | :-------------------------------: | :-----------------: |
-| 2024.09 ~ 2022.12 | 👀 Code Reviewer & Mentor |       Boost Camp 9th (2024)       | NAVER Connect Corp  |
+| 2024.09 ~ 2024.12 | 👀 Code Reviewer & Mentor |       Boost Camp 9th (2024)       | NAVER Connect Corp  |
 | 2024.04 ~ 2024.06 |         👀 Expert         |       Software Maestro 15th       |    swmaestro.org    |
 | 2023.04 ~ 2023.08 |         👀 Expert         |       Software Maestro 14th       |    swmaestro.org    |
 | 2022.09 ~ 2022.12 | 👀 Code Reviewer & Mentor |       Boost Camp 7th (2022)       | NAVER Connect Corp  |
